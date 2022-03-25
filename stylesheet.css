@@ -1,0 +1,53 @@
+body { 
+    border: 5px solid black;
+    font-family: 'Hubballi', cursive;
+font-family: 'IBM Plex Mono', monospace;
+}
+    
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+li {
+    padding: 16px;
+    border-bottom: 1px solid black;
+
+}
+
+li:hover {
+    background-color: orange;
+}
+.navlinks{
+    background-color: rgb(175, 20, 20);
+    color: white;
+    
+    font-size: l
+}
+
+.imagebanner {
+    background-image: url(images/classicbanner.jpg);
+    background-size: cover;
+    padding: 150px 0;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.introduction {
+    text-align: center;
+    color: gray;
+    font-size: 1.5rem;
+}
+table, th, td, tr {
+    text-align: center;
+    border:1px solid black;
+}
+
+@media screen and (min-width: 700px){
+
+}
