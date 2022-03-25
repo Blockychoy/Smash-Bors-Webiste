@@ -1,1 +1,1 @@
-# Smash-Bors-Webiste
+# Smash-Bros-Webiste
